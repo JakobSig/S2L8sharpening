@@ -1,1 +1,1 @@
-# S2L8sharpening code and data will be published here
+SLsharpening code and data will be published here
