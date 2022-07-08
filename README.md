@@ -1,6 +1,6 @@
 [Under construction]
 
-Code from the paper <a href=https://www.mdpi.com/2072-4292/14/13/3224>Fusing Sentinel-2 and Landsat 8 Satellite Images Using a Model-Based Method</a> is here. The method sharpens Sentinel-2 and Landsat 8 data to a spatial resolution og 10m.
+Code implmenting the method proposed in <a href=https://www.mdpi.com/2072-4292/14/13/3224>Fusing Sentinel-2 and Landsat 8 Satellite Images Using a Model-Based Method</a> is here. The method sharpens Sentinel-2 and Landsat 8 data to a spatial resolution og 10m.
 
 
 
