@@ -66,8 +66,6 @@ function [Xhat_im , output ] = SLSharp(Yim,varargin)
 % The Manopt software
 % https://www.manopt.org/
 %
-%disp('saving')
-%save('/home/jakobs/s2/params/data/data.mat')
     % Import the manopt optimizer
     p1=pwd;
     mfilepath=fileparts(which(mfilename));
